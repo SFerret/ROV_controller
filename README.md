@@ -14,4 +14,4 @@
 
 ![3D](/img/3D.png)
 
-![system](/img/system.png)
+![system](/img/system.jpg)
